@@ -1,4 +1,5 @@
 # Projeto-Cinema
+-----
 
 #   **Descrição Geral**
 **O projeto é um sistema de reserva de assentos para cinemas que permite:**
