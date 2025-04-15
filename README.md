@@ -1,4 +1,4 @@
-# Projeto-Cinema
+# Projeto Cinema
 -----
 
 #   **Descrição Geral**
